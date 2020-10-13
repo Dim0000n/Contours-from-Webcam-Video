@@ -8,7 +8,7 @@ First way, we use the arithmical mean of the intensity of a grayscale image to e
 Second way, we plot a histogram of the intensity and employ its median value:
 	low_threshold=0.66*median and high_threshold=1.33*median.
 You can choose the way.
-Third, we used a constant value, for exambpe 70, and we calculate thresholds as shown above.
+Third, we used a constant value, for example 70, and we calculate thresholds as shown above.
 In the end, we find and draw the contours in real time.
 This program was made for fun.
 Perhaps you can find it useful.
